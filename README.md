@@ -1,2 +1,0 @@
-# azure-notes
-azure-notes
